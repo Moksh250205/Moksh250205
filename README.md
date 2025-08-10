@@ -1,159 +1,111 @@
 <div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="750px" alt="Profile GIF">
-</div>
-<br>
-
-<table align="center" width="800px" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center">
-      <h1>Moksh Prajapati</h1>
-      <h3 style="color: #555; font-weight: 300;">Full Stack Developer │ AI Engineer │ Creative Technologist</h3>
-      <br>
-      <p style="font-style: italic; color: #777; max-width: 600px;">
-        I build elegant and intelligent solutions for the modern web, with a passion for clean code and seamless user experiences.
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MokshPrajapati/MokshPrajapati/main/assets/line-break-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MokshPrajapati/MokshPrajapati/main/assets/line-break.gif">
-    <img src="https://raw.githubusercontent.com/MokshPrajapati/MokshPrajapati/main/assets/line-break.gif" width="60%">
-  </picture>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="750px" alt="Coding Animation">
 </div>
 
 <div align="center">
-  <h2 style="font-weight: bold; margin-bottom: 5px;">My Tech Arsenal</h2>
-  <p style="color: #666;">The tools and technologies I use to bring ideas to life.</p>
   <br>
+  <h1>🚀 Moksh Prajapati</h1>
+  <h3>Full Stack Developer │ AI Engineer │ Creative Technologist</h3>
 </div>
-
-<!-- Main Table for 2x2 Grid -->
-<table align="center" width="90%" border="0" cellpadding="0" cellspacing="0">
-  <tr valign="top">
-    <!-- COLUMN 1 -->
-    <td width="50%" align="center" style="padding: 10px;">
-      <!-- Frontend Card -->
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #ddd; border-radius: 12px; overflow: hidden;">
-        <tr>
-          <td align="center" style="background-color: #f9f9f9; padding: 12px; border-bottom: 1px solid #ddd;">
-            <h3 style="margin: 0; font-weight: 600;">Frontend Development</h3>
-          </td>
-        </tr>
-        <tr>
-          <td align="left" style="padding: 20px; line-height: 2;">
-            <img src="https://skillicons.dev/icons?i=react" height="20" alt="React logo" valign="middle"/>&nbsp; React.js &amp; React Three Fiber<br>
-            <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="Next.js logo" valign="middle"/>&nbsp; Next.js<br>
-            <img src="https://skillicons.dev/icons?i=angular" height="20" alt="Angular logo" valign="middle"/>&nbsp; Angular &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=redux" height="20" alt="Redux logo" valign="middle"/>&nbsp; Redux<br>
-            <img src="https://skillicons.dev/icons?i=gsap" height="20" alt="GSAP logo" valign="middle"/>&nbsp; GSAP &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=framermotion" height="20" alt="Framer Motion logo" valign="middle"/>&nbsp; Framer Motion<br>
-            <img src="https://skillicons.dev/icons?i=html" height="20" alt="WebRTC logo" valign="middle"/>&nbsp; WebRTC &nbsp;&nbsp;·&nbsp;&nbsp; Web Speech API
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- COLUMN 2 -->
-    <td width="50%" align="center" style="padding: 10px;">
-      <!-- Backend Card -->
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #ddd; border-radius: 12px; overflow: hidden;">
-        <tr>
-          <td align="center" style="background-color: #f9f9f9; padding: 12px; border-bottom: 1px solid #ddd;">
-            <h3 style="margin: 0; font-weight: 600;">Backend & Databases</h3>
-          </td>
-        </tr>
-        <tr>
-          <td align="left" style="padding: 20px; line-height: 2;">
-            <img src="https://skillicons.dev/icons?i=java" height="20" alt="Java logo" valign="middle"/>&nbsp; Java (Spring Boot)<br>
-            <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="Node.js logo" valign="middle"/>&nbsp; Node.js &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=express" height="20" alt="Express.js logo" valign="middle"/>&nbsp; Express.js<br>
-            <img src="https://skillicons.dev/icons?i=mongodb" height="20" alt="MongoDB logo" valign="middle"/>&nbsp; MongoDB &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="MySQL logo" valign="middle"/>&nbsp; MySQL<br>
-            <img src="https://skillicons.dev/icons?i=postgresql" height="20" alt="PostgreSQL logo" valign="middle"/>&nbsp; PostgreSQL &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=redis" height="20" alt="Redis logo" valign="middle"/>&nbsp; Redis<br>
-            <img src="https://skillicons.dev/icons?i=graphql" height="20" alt="GraphQL logo" valign="middle"/>&nbsp; GraphQL &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=socketio" height="20" alt="Socket.io logo" valign="middle"/>&nbsp; Socket.IO
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr valign="top">
-    <!-- COLUMN 3 -->
-    <td width="50%" align="center" style="padding: 10px;">
-      <!-- AI & Automation Card -->
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #ddd; border-radius: 12px; overflow: hidden;">
-        <tr>
-          <td align="center" style="background-color: #f9f9f9; padding: 12px; border-bottom: 1px solid #ddd;">
-            <h3 style="margin: 0; font-weight: 600;">AI & Automation</h3>
-          </td>
-        </tr>
-        <tr>
-          <td align="left" style="padding: 20px; line-height: 2;">
-            <img src="https://skillicons.dev/icons?i=idea" height="20" alt="AI Agents logo" valign="middle"/>&nbsp; Agentic AI Development<br>
-            <img src="https://skillicons.dev/icons?i=openai" height="20" alt="OpenAI logo" valign="middle"/>&nbsp; OpenAI API &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=gcp" height="20" alt="Gemini logo" valign="middle"/>&nbsp; Gemini API<br>
-            <img src="https://skillicons.dev/icons?i=discordjs" height="20" alt="Discord Bots logo" valign="middle"/>&nbsp; Discord.js Bots<br>
-            <img src="https://skillicons.dev/icons?i=n8n" height="20" alt="n8n logo" valign="middle"/>&nbsp; n8n Workflow Automation<br>
-            <img src="https://skillicons.dev/icons?i=bots" height="20" alt="API icon" valign="middle"/>&nbsp; API Integrations (Eleven Labs, etc.)
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- COLUMN 4 -->
-    <td width="50%" align="center" style="padding: 10px;">
-      <!-- DevOps & Tools Card -->
-      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: 1px solid #ddd; border-radius: 12px; overflow: hidden;">
-        <tr>
-          <td align="center" style="background-color: #f9f9f9; padding: 12px; border-bottom: 1px solid #ddd;">
-            <h3 style="margin: 0; font-weight: 600;">DevOps & Infrastructure</h3>
-          </td>
-        </tr>
-        <tr>
-          <td align="left" style="padding: 20px; line-height: 2;">
-            <img src="https://skillicons.dev/icons?i=docker" height="20" alt="Docker logo" valign="middle"/>&nbsp; Docker &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=aws" height="20" alt="AWS logo" valign="middle"/>&nbsp; AWS<br>
-            <img src="https://skillicons.dev/icons?i=nginx" height="20" alt="Nginx logo" valign="middle"/>&nbsp; Nginx &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=kafka" height="20" alt="Kafka logo" valign="middle"/>&nbsp; Apache Kafka<br>
-            <img src="https://skillicons.dev/icons?i=git" height="20" alt="Git logo" valign="middle"/>&nbsp; Git & GitHub &nbsp;&nbsp;·&nbsp;&nbsp; 
-            <img src="https://skillicons.dev/icons?i=postman" height="20" alt="Postman logo" valign="middle"/>&nbsp; Postman<br>
-            <b>Payment Gateways:</b> Stripe, Razorpay<br>
-            <b>Other Services:</b> Google Maps API
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MokshPrajapati/MokshPrajapati/main/assets/line-break-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MokshPrajapati/MokshPrajapati/main/assets/line-break.gif">
-    <img src="https://raw.githubusercontent.com/MokshPrajapati/MokshPrajapati/main/assets/line-break.gif" width="60%">
-  </picture>
+  <br>
+  I build elegant and intelligent solutions for the modern web, with a passion for clean code and seamless user experiences.
 </div>
 
-<table align="center" width="600px" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td align="center">
-      <h2>Let's Collaborate</h2>
-      <p style="color: #666;">
-        I'm always excited to discuss new projects, innovative ideas, or opportunities for collaboration.<br/>Feel free to connect with me!
-      </p>
-      <br>
-      <p>
-        <a href="https://linkedin.com/in/mokshprajapati" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        &nbsp;&nbsp;
-        <a href="mailto:mhp8195@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 <br>
+
+---
+
+<div align="center">
+  <h2 style="font-weight: bold;">⚡ My Tech Stack</h2>
+  <p>The tools, languages, and frameworks I use to bring ideas to life.</p>
+  <br>
+
+  **🎨 Frontend Development**
+  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+  ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+  **⚙️ Backend Development**
+  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+  ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+  ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+  **🗄️ Databases & DevOps**
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+  **🤖 AI & API Integrations**
+  
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+  ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+  ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
+  
+  ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+  ![Web Speech API](https://img.shields.io/badge/Web%20Speech%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+  <h2>🤝 Let's Collaborate</h2>
+  <p>
+    I'm always excited to discuss new projects, innovative ideas, or opportunities for collaboration.<br/>
+    Feel free to connect with me!
+  </p>
+  
+  <p>
+    <a href="https://linkedin.com/in/mokshprajapati" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    &nbsp;
+    <a href="mailto:mhp8195@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+  </p>
+</div>
+
+<!-- Alternative Fallback Section (Hidden by default, visible if shields.io fails) -->
+<details>
+<summary>🔧 Tech Stack (Text Fallback)</summary>
+
+**Frontend:** React • Next.js • Angular • Redux • Three.js • TypeScript • HTML5 • CSS3 • GSAP • Framer Motion
+
+**Backend:** Java • Spring • Node.js • Express • GraphQL • Apache Kafka • Socket.io
+
+**Databases:** PostgreSQL • MySQL • MongoDB • Redis
+
+**DevOps:** Docker • AWS • Nginx • Git
+
+**AI & APIs:** OpenAI • Google Gemini • ElevenLabs • Stripe • Razorpay • WebRTC • Web Speech API • Google Maps
+
+</details>
