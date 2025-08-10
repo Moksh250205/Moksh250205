@@ -5,7 +5,7 @@
 <div align="center">
   <br>
   <h1>🚀 Moksh Prajapati</h1>
-  <h3>Full Stack Developer │ AI Engineer │ Creative Technologist</h3>
+  <h3>Full Stack Developer | Creative Technologist</h3>
 </div>
 
 <div align="center">
