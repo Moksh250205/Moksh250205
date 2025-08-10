@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="750px">
 </div>
 <div align="center">
 <br>
@@ -14,11 +14,13 @@ I build elegant and intelligent solutions for the modern web, with a passion for
 <hr>
 <div align="center">
 <h2 style="font-weight: bold;">My Core Technologies</h2>
-<p>The tools and technologies I use to bring ideas to life.</p>
+<p>The tools, languages, and frameworks I use to bring ideas to life.</p>
 <br>
 <strong>Frontend:</strong>
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,threejs,framermotion,gsap" height="40" alt="Frontend Icons"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,redux,threejs" height="40" alt="Core Frontend Icons"/>
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,typescript,tailwind,gsap,framermotion" height="40" alt="Frontend Styling and Animation Icons"/>
 </p>
 <strong>Backend:</strong>
 <p>
@@ -26,11 +28,13 @@ I build elegant and intelligent solutions for the modern web, with a passion for
 </p>
 <strong>Databases & DevOps:</strong>
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker,aws,nginx,git" height="40" alt="DevOps Icons"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" height="40" alt="Database Icons"/>
+<br>
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,githubactions" height="40" alt="DevOps Icons"/>
 </p>
-<strong>AI & Tooling:</strong>
+<strong>Cloud, AI & Tools:</strong>
 <p>
-<img src="https://skillicons.dev/icons?i=ai,gcp,postman,jest,vscode" height="40" alt="AI & Tools"/>
+<img src="https://skillicons.dev/icons?i=ai,gcp,firebase,postman,jest,vscode" height="40" alt="AI and Tooling Icons"/>
 </p>
 </div>
 <hr>
